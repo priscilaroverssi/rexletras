@@ -21,14 +21,11 @@
 <h3>Proteção das Informações</h3>
 <p>Embora nosso jogo não colete informações, implementamos medidas de segurança para garantir que o jogo funcione corretamente e de forma segura. Sempre buscamos melhorar a experiência de uso sem comprometer a privacidade.</p>
 
-<h3>Consentimento dos Pais</h3>
-<p>Nosso jogo é direcionado a crianças e, portanto, seguimos os requisitos da Lei de Proteção à Privacidade Online das Crianças (COPPA) e outras legislações aplicáveis. Encorajamos os pais ou responsáveis a supervisionarem o uso do jogo para garantir uma experiência segura e divertida.</p>
-
 <h3>Alterações nesta Política de Privacidade</h3>
 <p>Podemos atualizar esta política de privacidade periodicamente para refletir melhorias no jogo ou mudanças em nossas práticas. Notificaremos os usuários sobre qualquer alteração significativa, postando a nova política de privacidade em nosso repositório no GitHub.</p>
 
 <h3>Contato</h3>
-<p>Se você tiver alguma dúvida ou preocupação sobre esta política de privacidade, entre em contato conosco através do e-mail [seu-email@exemplo.com].</p>
+<p>Se você tiver alguma dúvida ou preocupação sobre esta política de privacidade, entre em contato conosco através do e-mail [priscilaroverssi01@gmail.com].</p>
 
 <h3>Política de Cookies</h3> 
 
