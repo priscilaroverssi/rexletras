@@ -1,0 +1,12 @@
+{
+  "name": "Rex Letras",
+  "short_name": "Rex Letras",
+  "id": "com.priroverssi.rexletras",
+  "description": "Um jogo de aventura e aprendizado onde os jogadores se envolvem em uma emocionante jornada por mundos fantásticos, ao mesmo tempo em que aprimoram suas habilidades de formação de palavras com temas escolares. O objetivo principal é auxiliar o protagonista, o explorador Rex, a criar palavras usando as letras encontradas ao longo do caminho, até chegar ao momento do recreio.",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
