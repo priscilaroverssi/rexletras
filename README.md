@@ -2,7 +2,7 @@
 
 <h1>Rex Letras</h1>
 
-<h3>Um jogo de aventura e aprendizado onde os jogadores se envolvem em uma emocionante jornada por mundos fantásticos, ao mesmo tempo em que aprimoram suas habilidades de formação de palavras com temas escolares. O objetivo principal é auxiliar o protagonista, o explorador Rex, a criar palavras usando as letras encontradas ao longo do caminho, até chegar ao momento do recreio.</h3>
+<h3>Um jogo de aventura e aprendizado onde os jogadores se envolvem em uma emocionante jornada por mundos fantásticos, ao mesmo tempo em que aprimoram suas habilidades de formação de palavras com temas escolares. O objetivo principal é auxiliar o explorador Rex, a criar palavras usando as letras encontradas ao longo do caminho, até chegar ao momento do recreio.</h3>
 
 <h1>Política de Privacidade</h1>
 
