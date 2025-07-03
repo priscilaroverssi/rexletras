@@ -7,22 +7,22 @@
 <h1>Política de Privacidade</h1>
 
 <h3>Introdução</h3>
-<p>Bem-vindo ao nosso jogo infantil "Rex Letras"! Esta política de privacidade descreve como tratamos as informações dos nossos usuários. A sua privacidade é extremamente importante para nós, e nos comprometemos a não coletar nem compartilhar qualquer tipo de informação pessoal.</p>
+<p>Bem-vindo ao jogo infantil "Rex Letras"! Esta política de privacidade descreve como tratamos as informações dos nossos usuários. A sua privacidade é extremamente importante para nós, e nos comprometemos a não coletar nem compartilhar qualquer tipo de informação pessoal.</p>
 
 <h3>Coleta de Informações</h3>
-<p>Nosso jogo não coleta nenhum tipo de informação pessoal ou técnica. Nós projetamos "Rex Letras" para que ele funcione de forma totalmente independente, sem a necessidade de coletar dados dos usuários.</p>
+<p>O jogo não coleta nenhum tipo de informação pessoal ou técnica. Projetei "Rex Letras" para que ele funcione de forma totalmente independente, sem a necessidade de coletar dados dos usuários.</p>
 
 <h3>Uso de Informações</h3>
-<p>Como não coletamos nenhuma informação, não utilizamos nem armazenamos dados pessoais ou técnicos de qualquer natureza. O jogo foi desenvolvido para proporcionar uma experiência segura e divertida, sem a necessidade de acessar informações do dispositivo ou do usuário.</p>
+<p>Como não coleto nenhuma informação, não utilizo nem armazenamos dados pessoais ou técnicos de qualquer natureza. O jogo foi desenvolvido para proporcionar uma experiência segura e divertida, sem a necessidade de acessar informações do dispositivo ou do usuário.</p>
 
 <h3>Compartilhamento de Informações</h3>
-<p>Não compartilhamos informações com terceiros porque não coletamos nenhum dado dos nossos usuários. A privacidade e a segurança das crianças são nossas principais prioridades.</p>
+<p>Não compartiloamos informações com terceiros porque não coleto nenhum dado dos nossos usuários. A privacidade e a segurança são principais prioridades.</p>
 
 <h3>Proteção das Informações</h3>
-<p>Embora nosso jogo não colete informações, implementamos medidas de segurança para garantir que o jogo funcione corretamente e de forma segura. Sempre buscamos melhorar a experiência de uso sem comprometer a privacidade.</p>
+<p>Embora onosso jogo não colete informações, implementamos medidas de segurança para garantir que o jogo funcione corretamente e de forma segura. Sempre buscamos melhorar a experiência de uso sem comprometer a privacidade.</p>
 
 <h3>Alterações nesta Política de Privacidade</h3>
-<p>Podemos atualizar esta política de privacidade periodicamente para refletir melhorias no jogo ou mudanças em nossas práticas. Notificaremos os usuários sobre qualquer alteração significativa, postando a nova política de privacidade em nosso repositório no GitHub.</p>
+<p>PodePosso atualizar esta política de privacidade periodicamente para refletir melhorias no jogo ou mudanças em nossas práticas. Notificaremos os usuários sobre qualquer alteração significativa, postando a nova política de privacidade em nosso repositório no GitHub.</p>
 
 <h3>Contato</h3>
 <p>Se você tiver alguma dúvida ou preocupação sobre esta política de privacidade, entre em contato conosco através do e-mail [priscilaroverssi01@gmail.com].</p>
